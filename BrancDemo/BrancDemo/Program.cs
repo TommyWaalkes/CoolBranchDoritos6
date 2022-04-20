@@ -2,7 +2,7 @@
 {
     public static void Main()
     {
-        Console.WriteLine("Hello World!");
+        Console.WriteLine("Egg Salad done right is great");
         Console.WriteLine("Burger King is my King!");
     }
 }
