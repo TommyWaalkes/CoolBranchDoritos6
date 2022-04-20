@@ -3,5 +3,6 @@
     public static void Main()
     {
         Console.WriteLine("Hello World!");
+        Console.WriteLine("Burger King is my King!");
     }
 }
